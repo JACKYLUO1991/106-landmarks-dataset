@@ -1,7 +1,6 @@
 # [Open source] 106-point landmarks dataset
 [1] A dataset for 106 facial landmarks<br/>
-[2] Baidu netdisc links: https://pan.baidu.com/s/1OFWiLSbZeR8Ans9RrTR5Xg<br/>
-[3] Password: 44jh<br/>
+[2] removed！
 <br/>
 ### A demo picture of our dataset with 106-point landmarks and bounding box<br/>
 <div><div align=center>
