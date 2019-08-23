@@ -1,6 +1,6 @@
 # [Open source] 106-point landmarks dataset
 [1] A dataset for 106 facial landmarks<br/>
-[2] Having been removed！
+[2] Considering that copyright issues have been forcibly removed!
 <br/>
 ### A demo picture of our dataset with 106-point landmarks and bounding box<br/>
 <div><div align=center>
